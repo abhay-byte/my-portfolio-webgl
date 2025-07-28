@@ -1,5 +1,7 @@
 # My Interactive 3D Portfolio
 
+![image](https://media.licdn.com/dms/image/v2/D562DAQF_CmoFvvklSg/profile-treasury-image-shrink_800_800/B56Zex5Wq3HQAY-/0/1751036293226?e=1754334000&v=beta&t=kAjZZiJRiQTyDbMw5QDHW7jjBkT-ibLSb9AEFQpBEkU)
+
 Hey there! Welcome.
 
 I'm **Abhay Raj**, a game developer, and this is the repository for my interactive 3D portfolio.
